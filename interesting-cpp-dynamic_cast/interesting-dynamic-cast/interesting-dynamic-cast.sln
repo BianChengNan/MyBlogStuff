@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "interesting-dynamic-cast", "interesting-dynamic-cast.vcxproj", "{A47BFEB0-95C3-440D-8429-4DE5A6C802FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47BFEB0-95C3-440D-8429-4DE5A6C802FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A47BFEB0-95C3-440D-8429-4DE5A6C802FB}.Debug|Win32.Build.0 = Debug|Win32
+		{A47BFEB0-95C3-440D-8429-4DE5A6C802FB}.Release|Win32.ActiveCfg = Release|Win32
+		{A47BFEB0-95C3-440D-8429-4DE5A6C802FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
