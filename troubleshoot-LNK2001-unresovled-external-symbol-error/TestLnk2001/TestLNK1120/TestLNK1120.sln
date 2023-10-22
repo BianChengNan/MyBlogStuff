@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestLNK1120", "TestLNK1120.vcxproj", "{2E179F29-6BB9-41F5-B38F-9FCDAB8C9DF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestLNK1120Dll", "..\TestLNK1120Dll\TestLNK1120Dll.vcxproj", "{5F9BE998-5214-4426-A6A5-41E251CAC3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E179F29-6BB9-41F5-B38F-9FCDAB8C9DF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E179F29-6BB9-41F5-B38F-9FCDAB8C9DF6}.Debug|Win32.Build.0 = Debug|Win32
+		{2E179F29-6BB9-41F5-B38F-9FCDAB8C9DF6}.Release|Win32.ActiveCfg = Release|Win32
+		{2E179F29-6BB9-41F5-B38F-9FCDAB8C9DF6}.Release|Win32.Build.0 = Release|Win32
+		{5F9BE998-5214-4426-A6A5-41E251CAC3FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F9BE998-5214-4426-A6A5-41E251CAC3FC}.Debug|Win32.Build.0 = Debug|Win32
+		{5F9BE998-5214-4426-A6A5-41E251CAC3FC}.Release|Win32.ActiveCfg = Release|Win32
+		{5F9BE998-5214-4426-A6A5-41E251CAC3FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
