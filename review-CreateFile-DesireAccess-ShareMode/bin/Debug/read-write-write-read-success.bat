@@ -1,0 +1,1 @@
+CreateFileBatchCaller.bat %~n0%
