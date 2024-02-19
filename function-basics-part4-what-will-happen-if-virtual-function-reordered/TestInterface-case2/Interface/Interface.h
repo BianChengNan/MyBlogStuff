@@ -9,16 +9,16 @@
 class InterfaceBase
 {
 public:
-    virtual void Test1(int) = 0;
     virtual ~InterfaceBase() {}
 };
 
 class Interface1 : public InterfaceBase
 {
 public:
-    virtual void Test1(int);
-    virtual void Test2(int);
-    virtual void Test3(int);
+    DLL_EXPORT_INTERFACE virtual void Test1(int);
+    DLL_EXPORT_INTERFACE virtual void Test3(int);
+    DLL_EXPORT_INTERFACE virtual void Test2(int);
+    DLL_EXPORT_INTERFACE virtual void Test4(int);
 };
 
 DLL_EXPORT_INTERFACE InterfaceBase* GetInterface();
